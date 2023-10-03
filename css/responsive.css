@@ -61,8 +61,9 @@ File Name: responsive.css
     }
     .logo {
         display: block;
-        width: 144px;
+        width: 144; 
         float: left;
+        
     }
     .airmic {
         padding-top: 60px;

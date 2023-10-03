@@ -375,6 +375,7 @@ ul.email li a i {
      background-size: cover;
      padding-top: 110px;
      position: relative;
+     opacity: 90%;
      /*  background-attachment: fixed;*/
      background-position: center;
 }
@@ -723,10 +724,11 @@ ul.email li a i {
      top: -115px;
      background-size: 100% 100%;
      background-position: center;
+     
 }
 
 .logo_footer {
-     margin-bottom: 15px;
+     margin-bottom: 10px;
      display: block;
 }
 
